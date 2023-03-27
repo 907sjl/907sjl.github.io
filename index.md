@@ -4,7 +4,7 @@
 
 ### Specialty clinic Referral-To-Appointment rates 
 
-[A report of referral wait times using Pandas and Bokeh](/sample_page)
+[A report of referral wait times using Pandas and Bokeh](/sample_page)<br>
 [A report of referral wait times using Power BI](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -14,7 +14,7 @@
 
 - [Adding bookmarks to PDF reports using PyPDF2](http://example.com/)
 - [Compile multiple PDF files into a single report using PyPDF2](http://example.com/)
-- [Create page formatted PDF reports from dashboards using Playwright](http://example.com/)
+- [Create PDF reports from dashboards using Playwright](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
