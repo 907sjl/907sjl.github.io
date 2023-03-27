@@ -2,25 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Specialty clinic Referral-To-Appointment rates 
 
-[Project 1 Title](/sample_page)
+[Using Pandas and Bokeh to visualize referral throughput against process aims](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Using Power BI](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Python utilities for day to day reporting
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Adding bookmarks to PDF page formatted reports](http://example.com/)
+- [Compiling one page formatted report from multiple PDF files](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
