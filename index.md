@@ -4,11 +4,11 @@
 
 ### Specialty clinic Referral-To-Appointment rates 
 
-[Using Pandas and Bokeh to visualize referral throughput against process aims](/sample_page)
+[Using Pandas and Bokeh to visualize referral wait times and process aims](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Using Power BI](/pdf/sample_presentation.pdf)
+[Using PowerBI to visualize referral wait times and process aims](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
