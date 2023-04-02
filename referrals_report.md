@@ -10,3 +10,6 @@ This project is an example of a report that I created to look at the wait times 
 <a href="images/internal_med_referrals.jpg"><img src="images/internal_med_referrals.jpg?raw=true"/></a> 
 
 The measures in this report page sample all referrals sent to a clinic and age each referral from the date it was sent to the date it reached each milestone in the referral management process. If a referral has yet to reach a milestone it is aged to the date of the report. 
+
+There are two process aims, one for urgent referrals to be seen in five days, and one for routine referrals to be seen in 30 days.  Referrals are aged to the appropriate number of days for each aim and reported in the month when they reach that number of days. After that time, any referral not canceled, rejected, or administratively closed is included in the reported percentages. The percentage of referrals meeting the process aims are shown along with the target and comparisons against the three-month rolling average and 12-month rolling average.
+
