@@ -4,11 +4,11 @@
 
 **Project description:** One way to measure access to care is timeliness.  Long delays to see a healthcare provider can speak to availability issues, either a lack of resources or inefficiencies that result in a less than optimal conversion of referrals into appointments. Long delays can also speak to accomodation issues or accessibility issues if patients have difficulty attending their scheduled appointments.
 
-This project is an example of a report that I created to look at the wait times for newly referred patients to be seen at specialty clinics. The measures in these report pages sample all referrals sent to each clinic and age each referral from the date it was sent to the date it reached each milestone in the referral management process. If a referral has yet to reach a milestone it is aged to the date of the report. 
+This project is an example of a report that I created to look at the wait times for referred patients at specialty clinics. The measures in these report pages sample all referrals sent to a clinic and age each referral from the date it was sent to the date it reached each milestone in the referral management process. If a referral has yet to reach a milestone it is aged to the date of the report. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Volume and throughput of referrals for a clinic
 
-<img src="images/internal_med_referrals.jpg?raw=true"/> 
+<a href="images/internal_med_referrals.jpg"><img src="images/internal_med_referrals.jpg?raw=true"/></a> 
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
