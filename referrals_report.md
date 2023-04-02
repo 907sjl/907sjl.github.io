@@ -17,3 +17,4 @@ The percentages of referrals accepted, scheduled, seen, and completed are calcul
 
 ### Performance and improvement across clinics
 
+<a href="images/referral_performance.jpg"><img src="images/referral_performance.jpg?raw=true"/></a> 
