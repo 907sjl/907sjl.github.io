@@ -6,7 +6,7 @@
 
 [A report of referral wait times using Pandas and Bokeh](/sample_page)<br>
 [A report of referral wait times using Power BI](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/internal_med_referrals.jpg?raw=true"/>
 
 ---
 
