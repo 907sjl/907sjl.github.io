@@ -13,3 +13,4 @@ The measures in this report page sample all referrals sent to a clinic and age e
 
 There are two process aims, one for urgent referrals to be seen in five days, and one for routine referrals to be seen in 30 days.  Referrals are aged to the appropriate number of days for each aim and reported in the month when they reach that number of days. After that time, any referral not canceled, rejected, or administratively closed is included in the reported percentages. The percentage of referrals meeting the process aims are shown along with the target and comparisons against the three-month rolling average and 12-month rolling average.
 
+The percentages of referrals accepted, scheduled, seen, and completed are calculated for all referrals that reach 90 days of age during the month.  Median times for each milestone are also shown with a distribution of referrals across categories of wait time to be seen. 
