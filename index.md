@@ -4,9 +4,11 @@
 
 ### Specialty clinic Referral-To-Appointment rates 
 
+<a href="images/internal_med_referrals.jpg">
+  <img src="images/internal_med_referrals.jpg?raw=true"/> 
+</a>
 [A report of referral wait times using Pandas and Bokeh](/sample_page)<br>
 [A report of referral wait times using Power BI](/pdf/sample_presentation.pdf)
-<img src="images/internal_med_referrals.jpg?raw=true"/>
 
 ---
 
