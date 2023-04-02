@@ -29,6 +29,6 @@ Stoplight colored indicator arrows represent the performance and improvement dir
  
 <a href="images/pending_referrals.jpg"><img src="images/pending_referrals.jpg?raw=true"/></a> 
 
-This report provides a monthly snapshot of all referrals that are currently on hold or in a process state that requires more action to convert the referral into an appointment. Clinics can quickly survey the number of referrals awaiting action and how long referrals have been waiting. 
+This report provides a snapshot of all referrals that are currently on hold or in a process state that requires more action to convert the referral into an appointment. Clinics can quickly survey the number of referrals awaiting action and how long referrals have been waiting. 
 
 Referrals are counted by either the reason for the hold or their current processing status. Referrals can be on hold, pending a rescheduled appointment time, pending acceptance by the clinic, or sitting in an accepted status but not yet scheduled. Stoplight colored histograms count referrals by wait time categories to give an indication of how long the referrals have been pending action.
