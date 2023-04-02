@@ -18,3 +18,9 @@ The percentages of referrals accepted, scheduled, seen, and completed are calcul
 ### Performance and improvement across clinics
 
 <a href="images/referral_performance.jpg"><img src="images/referral_performance.jpg?raw=true"/></a> 
+
+This report seeks a concise way to communicate the impact of recovery plans or the need for recovery plans to improve patient wait times. It compares the performance rates for the current month, rolling three-month average, and rolling 12-month average against the target rate for a process aim. This gives an indication of how consistently each clinic is meeting targets and maintaining that performance. One month under target may not be cause for concern, and one month above target may need to be celebrated and encouraged for continued performance. 
+
+To get an indication of improvement direction within each clinic, this report compares the performance rate for the current month to the previous month, rolling three-month average, and rolling 12-month average rates for the same clinic. If the clinic consistently performs but is moving down over time that should be investigated, and if a clinic consistently underperforms but is consistently rising that might indicate a working recovery plan that should be sustained. 
+
+Stoplight colored indicator arrows represent the performance and improvement direction for each clinic over time to communicate at a glance. The report also categorizes each clinic based on the combination of up or down arrows to infer meaning via a concise statement. 
