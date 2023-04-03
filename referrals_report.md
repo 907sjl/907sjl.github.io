@@ -43,7 +43,7 @@ Referrals are counted by either the reason for the hold or their current process
 <a href="images/referral_data_quality.jpg"><img src="images/referral_data_quality.jpg?raw=true"/></a> 
 *Click for full image*
 
-The quality of the referral data is a concern. Clinics may not see a further need for the referral once a patient is scheduled. This report addresses the question of how closely the clinic's referral management data represents patient experience. 
+Clinics may not see a further need for the referral once a patient is scheduled. This report addresses the question of how closely the clinic's referral management data represents patient experience. 
 
 Referrals must be accepted, scheduled, seen, and finally completed. In this scenario, referrals must also be linked to the new patient appointments in order to have up to date status in the referral management system. Four tests calculate an indicator of how up to date their referral data is kept. Appointment data for referred patients is compared to their status in the referral management system. Referrals not yet tagged as scheduled may need an appointment linked. This can also cause referrals not to be tagged as seen after the patient has, in fact, checked-in. 
 
