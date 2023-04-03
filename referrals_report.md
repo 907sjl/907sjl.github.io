@@ -47,5 +47,5 @@ The quality of the referral data is a concern. Clinics may not see a further nee
 
 Referrals must be accepted, scheduled, seen, and finally completed. In this scenario, referrals must also be linked to the new patient appointments in order to have up to date status in the referral management system. Four tests calculate an indicator of how up to date their referral data is kept. Appointment data for referred patients is compared to their status in the referral management system. Referrals not yet tagged as scheduled may need an appointment linked. This can also cause referrals not to be tagged as seen after the patient has, in fact, checked-in. 
 
-An additional test compares the number of patients referenced in Direct Secure Messages to those who have a referral to the clinic. Patients seen as a result of DSMs would need a referral to be included in this report.  
+An additional test compares the number of patients referenced in Direct Secure Messages to those who have a referral to the clinic. Patients seen as a result of DSMs would need a referral if they are to be included in this report.  
 
