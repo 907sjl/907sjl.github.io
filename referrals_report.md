@@ -1,4 +1,4 @@
-< [Portfolio](/) | [Full Report](/pdf/Referral%20Wait%20Time.pdf)
+< [Portfolio](/) | [Full Report](/pdf/Referral%20Wait%20Time.pdf) | [Bokeh project](/) | [Power BI project](/) 
 
 ## Specialty Clinic Referral-To-Appointment Rates
 
