@@ -7,8 +7,9 @@
 <a href="/referrals_report">
   <img src="images/internal_med_referrals.jpg?raw=true"/> 
 </a>
-[A report of referral wait times using Pandas and Bokeh](/referrals_report)<br>
-[A report of referral wait times using Power BI](/pdf/sample_presentation.pdf)
+[Overview of the report](/referrals_report)<br>
+[Project page using Pandas and Bokeh](/pdf/sample_presentation.pdf)<br>
+[Project page using Power BI](/pdf/sample_presentation.pdf)
 
 ---
 
