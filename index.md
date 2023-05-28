@@ -2,7 +2,7 @@
 
 ---
 
-### Specialty clinic Referral-To-Appointment rates 
+### Specialty clinic process rates 
 
 <a href="/referrals_report">
   <img src="images/internal_med_referrals.jpg?raw=true"/> 
