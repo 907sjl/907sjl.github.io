@@ -8,8 +8,8 @@
   <img src="images/internal_med_referrals.jpg?raw=true"/> 
 </a>
 [Overview of the report](/referrals_report)<br>
-[Project page using Pandas and Bokeh](/pdf/sample_presentation.pdf)<br>
-[Project page using Power BI](https://907sjl.github.io/referrals_powerbi/)
+[Anatomy of the report using Pandas and Bokeh](/pdf/sample_presentation.pdf)<br>
+[Anatomy of the report using Power BI](https://907sjl.github.io/referrals_powerbi/)
 
 ---
 
