@@ -15,8 +15,7 @@
 
 ### Python utilities for day to day reporting
 
-- [Adding bookmarks to PDF reports using PyPDF2](http://example.com/)
-- [Compile multiple PDF files into a single report using PyPDF2](http://example.com/)
+- [Splicing PDFs and applying bookmarks using PyPDF2 (v3.0+)](https://github.com/907sjl/pdf-splicer)
 - [Create PDF reports from dashboards using Playwright](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
