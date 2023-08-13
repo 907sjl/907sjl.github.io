@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   data into actionable information, using a mix of SQL, Python, Pandas, HTML, CSS, Bokeh, 
   Power BI, QlikView, and Cerner CCL.</p>
   <p>Some of my projects are listed here with descriptions and links to their repositories. All of these 
-  examples are presented here with fabricated data.</p> 
+  examples are presented here with fabricated data and the identities of organizations removed.</p> 
   <a href="https://www.linkedin.com/in/steven-leathard-274678a">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
