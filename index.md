@@ -15,6 +15,9 @@
 
 ### Python utilities for day to day reporting
 
+<a href="https://github.com/907sjl/pdf-splicer">
+  <img src="images/pdf_splicer.jpg?raw=true"/> 
+</a>
 - [Splicing PDFs and applying bookmarks using PyPDF2 (v3.0+)](https://github.com/907sjl/pdf-splicer)
 - [Create PDF reports from dashboards using Playwright](http://example.com/)
 - [Project 4 Title](http://example.com/)
