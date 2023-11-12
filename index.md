@@ -9,7 +9,7 @@
 </a>
 [Overview of the report](/referrals_report)<br>
 [Example report using Power BI](https://907sjl.github.io/referrals_powerbi/)<br>
-[Example report using Pandas and Bokeh](/pdf/sample_presentation.pdf)
+[Example report using Pandas and Bokeh](https://907sjl.github.io/referrals-bokeh/)
 
 ---
 
