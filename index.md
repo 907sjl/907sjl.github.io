@@ -16,14 +16,14 @@
 ### Python utilities for day to day reporting
 
 [Include dashboard pages in PDF reports using Playwright](https://github.com/907sjl/page-capture-utility)<br>
-<a href="https://github.com/907sjl/page-capture-utility">
+<p><a href="https://github.com/907sjl/page-capture-utility">
   <img src="images/page_capture_utility.svg?raw=true" width="400" alt="SVG image: icon for the Page Capture Utility repo"/> 
-</a>    
+</a></p>    
 
 [Splice PDFs and apply bookmarks using PyPDF2 (v3.0+)](https://github.com/907sjl/pdf-splicer)<br>
-<a href="https://github.com/907sjl/pdf-splicer">
+<p><a href="https://github.com/907sjl/pdf-splicer">
   <img src="images/pdf_splicer.svg?raw=true" width="400" alt="SVG image: icon for the PDF Splicer repo"/> 
-</a>    
+</a></p>    
 
 ---
 
