@@ -2,13 +2,22 @@
 
 ---
 
-### Specialty clinic process rates 
+### Specialty clinic days to see referrals - moving rates
+
+[Example data application using Bokeh](https://907sjl.github.io/moving-rates-bokeh/)<br>
+<a href="/moving-rates-bokeh">
+  <img src="images/moving_rates_app.gif?raw=true" alt="Antimated GIF: Moving rates data app"/> 
+</a> 
+
+---
+
+### Specialty clinic referral conversion rates 
 
 [Overview of the report](/referrals_report)<br>
 [Example report using Power BI](https://907sjl.github.io/referrals_powerbi/)<br>
 [Example report using Pandas and Bokeh](https://907sjl.github.io/referrals-bokeh/)<br>
 <a href="/referrals_report">
-  <img src="images/internal_med_referrals.jpg?raw=true"/> 
+  <img src="images/internal_med_referrals.jpg?raw=true" alt="Picture of referral conversion process report"/> 
 </a>
 
 ---
@@ -25,7 +34,6 @@
   <img src="images/pdf_splicer.svg?raw=true" width="400" alt="SVG image: icon for the PDF Splicer repo"/> 
 </a></p>    
 
----
 
 
 
