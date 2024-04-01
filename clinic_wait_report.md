@@ -1,4 +1,4 @@
-< [Portfolio](/) | [Full Report](Clinic%20Wait%20Times.pdf) | [Power BI example](https://907sjl.github.io/clinic-wait-powerbi/) 
+< [Portfolio](/) | [Full Report](/pdf/Clinic%20Wait%20Times.pdf) | [Power BI example](https://907sjl.github.io/clinic-wait-powerbi/) 
 
 ## Specialty clinic wait times
 
@@ -38,4 +38,4 @@ Two charts create a couple of referral processing curves to help visualize the w
 number of days to their earliest appointment broken out by unequal, but meaningful, age bins. An area chart highlights the variance between the ages to the earliest 
 appointments booked and the ages to actually see the patient. This shows the impact of no-shows and reschedules.    
 
-< [Portfolio](/) | [Full Report](Clinic%20Wait%20Times.pdf) | [Power BI example](https://907sjl.github.io/clinic-wait-powerbi/) 
+< [Portfolio](/) | [Full Report](/pdf/Clinic%20Wait%20Times.pdf) | [Power BI example](https://907sjl.github.io/clinic-wait-powerbi/) 
