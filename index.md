@@ -2,11 +2,19 @@
 
 ---
 
+### Referred patient wait times at specialty clinics
+
+<a href="/clinic-wait-powerbi/clinic_wait_report">
+    <img src="images/clinic_wait_report.jpg?raw=true" alt="Picture of clinic wait time report"/>
+</a>
+
+---
+
 ### Specialty clinic days to see referrals - moving rates
 
 [Example data application using Bokeh](https://907sjl.github.io/moving-rates-bokeh/)<br>
 <a href="/moving-rates-bokeh">
-  <img src="images/moving_rates_app.gif?raw=true" alt="Antimated GIF: Moving rates data app"/> 
+  <img src="images/moving_rates_app.gif?raw=true" alt="Animated GIF: Moving rates data app"/> 
 </a> 
 
 ---
