@@ -3,7 +3,7 @@ logo: "/images/circleme3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <p>I'm currently in a data analytics group focused on healthcare data engineering 
   and visualization projects. I work with both clinical and financial customers to transform 
-  data into actionable information, using a mix of SQL, Python, Pandas, HTML, CSS, Bokeh, 
+  data into actionable information, using a mix of SQL, Python, Pandas, R, HTML, CSS, Bokeh, 
   Power BI, QlikView, and Cerner CCL.</p>
   <p>Some of my projects are listed here with descriptions and links to their repositories. All of these 
   examples are presented here with fabricated data and the identities of organizations removed.</p> 
