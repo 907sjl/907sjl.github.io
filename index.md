@@ -4,6 +4,7 @@
 
 ### Referred patient wait times at specialty clinics
 
+[Overview of the report](/clinic-wait-powerbi/clinic_wait_report)<br>
 <a href="/clinic-wait-powerbi/clinic_wait_report">
     <img src="images/clinic_wait_report.jpg?raw=true" alt="Picture of clinic wait time report"/>
 </a>
