@@ -5,6 +5,7 @@
 ### Referred patient wait times at specialty clinics
 
 [Overview of the report](/clinic_wait_report)<br>
+[Example report using Power BI](https://907sjl.github.io/clinic-wait-powerbi/)<br>
 <a href="/clinic_wait_report">
     <img src="images/clinic_wait_report.jpg?raw=true" alt="Picture of clinic wait time report"/>
 </a>
