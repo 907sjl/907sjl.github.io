@@ -55,7 +55,7 @@
 
 [Automate report distribution via email using SMTP](https://github.com/907sjl/smtp-sender)<br>
 <p><a href="https://github.com/907sjl/smtp-sender">
-  <img src="images/smtp_sender.svg?raw=true" width="200" alt="SVG image: icon for the SMTP Sender repo"/> 
+  <img src="images/smtp_sender.svg?raw=true" width="180" alt="SVG image: icon for the SMTP Sender repo"/> 
 </a></p>    
 
 
