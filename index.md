@@ -53,6 +53,10 @@
   <img src="images/pdf_splicer.svg?raw=true" width="400" alt="SVG image: icon for the PDF Splicer repo"/> 
 </a></p>    
 
+[Automate report distribution via email using SMTP](https://github.com/907sjl/smtp-sender)<br>
+<p><a href="https://github.com/907sjl/smtp-sender">
+  <img src="images/smtp_sender.svg?raw=true" width="200" alt="SVG image: icon for the SMTP Sender repo"/> 
+</a></p>    
 
 
 
