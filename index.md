@@ -2,6 +2,15 @@
 
 ---
 
+### Hospital Operations Dashboard in Power BI
+
+[Overview of the report](https://907sjl.github.io/operations-daily-view)<br>
+<a href="/operations-daily-view">
+  <img src="images/operations_report.jpg?raw=true" alt="JPG image: Picture of hospital operations dashboard report"/> 
+</a>
+
+---
+
 ### Presentation and report visuals using R
 
 [Specialty clinic referral conversion rates](https://907sjl.github.io/clinic-wait-r)<br>
