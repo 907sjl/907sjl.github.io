@@ -4,8 +4,9 @@
 
 ### Hospital Operations Dashboard in Power BI
 
-[Overview of the report](https://907sjl.github.io/operations-daily-view)<br>
-<a href="/operations-daily-view">
+[Overview of the report](/operations_report)<br>
+[Example report using Power BI](https://907sjl.github.io/opertions-daily-view/)<br>
+<a href="/operations_report">
   <img style="margin-top: 4px;" src="images/operations_report.jpg?raw=true" alt="JPG image: Picture of hospital operations dashboard report"/> 
 </a>
 
