@@ -18,8 +18,9 @@ panel along the left edge of each page. The pages were displayed on a flat panel
 page with a script that rotates through the pages.    
 
 Cards at the top of each page display headline measures, while panels in center view either display movement in the measure 
-over time or display breakouts of the measure by relevant groupings. The cards compare different periods such as the observed 
-rate during the current month to the three-month average rate, six-month, and twelve-month rates.    
+over time or display breakouts of the measure by relevant groupings. The cards compare the observed rate during the current 
+month to different periods depending on the measure, such as the previous month-to-date, or the three-month average rate, 
+six-month, or twelve-month rates.    
 
 ### Length of Stay    
 
